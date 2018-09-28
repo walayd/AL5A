@@ -16,3 +16,4 @@ Each team creates a github repository, which should contain a `deliverables` dir
 ## Lecture material
 - Week #1: [Overview](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_1_overview_v0.8.pdf), [Organisation](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_2_organisation_v0.7.pdf), [Case Study](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_3_case_study_v0.7.pdf), [Project](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_4_projet_v0.8.pdf)
 
+- Week #2: [Build the Right system](https://github.com/gmolines/AL5A/blob/master/lectures/week1_2_1_build_the_right_system_v0.4.pdf), 
