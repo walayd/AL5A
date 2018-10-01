@@ -1,0 +1,11 @@
+# Promotion
+https://#USER#@github.com/zelha/al.git;IDA
+https://#USER#@github.com/Damoy/software-architecture-project.git;IDB
+https://#USER#@github.com/joelcancela/S9_AL_BlablaMove_TeamC.git;IDC
+https://#USER#@github.com/FlorianLehmann/BlablaMove.git;IDD
+https://#USER#@github.com/LucasUnice/AL-SI5-E.git;IDE
+https://#USER#@github.com/Taken0711/blablamove-f.git;IDF
+https://#USER#@github.com/Thyvador/AL_TEAM_G_BlablaMove.git;IDG
+https://#USER#@github.com/acouvreur/software-architecture-project.git;IDH
+https://#USER#@github.com/Imp95/al_cour_groupeI.git;IDI
+## That's all folks
