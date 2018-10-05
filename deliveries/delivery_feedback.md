@@ -2,6 +2,7 @@
 
 ## Deliverable list
 - Sept 30th: scope
+- Oct 10th: component diagram, roadmap, plan.
 
 ## Scope Feedback
 
