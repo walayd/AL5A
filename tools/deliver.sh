@@ -7,14 +7,14 @@ TAG=mutant_delivery
 FILE_CONTENT=architecture
 FILE_STATUS=status
 
-#TAG=archi
+TAG=tag_41
 #FILE=architecture
 
 function process() # $1 is team ID (& project directory)
 {
   cd $1/deliverables
-#  checkout_tag $TAG
-#  git_tag_time $TAG
+  checkout_tag $TAG
+  git_tag_time $TAG
   exists_file $FILE_CONTENT.pdf
   extract_file $FILE_CONTENT.pdf ../../${FILE_CONTENT}_$1.pdf
   exists_file $FILE_STATUS.md
