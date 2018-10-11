@@ -4,7 +4,37 @@
 - Sept 30th: scope
 - Oct 10th: component diagram, roadmap, plan.
 
-## Scope Feedback
+## Feedback on Delivery of Oct. 10th.
+### Group A
+Your plan seems viable, the architectural choices taken so far look good, however you need to explain why they've been taken this way.
+
+### Group B
+Plan looks good, technical choice look ok but are not justified. You should start coding now.
+
+### Group C
+Plan looks good. Architecture needs be refined a bit more, Esp. the diagram need be explained.
+
+### Group D
+Plan is not good. You have too many weeks of whiteboarding / thinking and start coding too late. You need to start coding now, and research the right image library in parallel. Technological choices make assumptions that need be justified.
+
+### Group E
+Component diagram is ok, and the explanations below it are sufficient to understand it. Technology choices are not justified and debatable. I didn't see a plan.
+
+### Group F
+Plan is scenario-oriented, and in this sense, it is good. However it needs be beefed up with a description of the steps you think you will perform. Component diagram needs some explanation alongside it.
+
+### Group G
+Comopnent diagram and matching text are good. Plan seem to devote little time to implementation, you should start coding now and build up your MVP more iteratively. Technology choices will have to be explained and beefed up along the way.
+
+### Group H
+I'm happy to finally see a team mentioning testing technology, well done guys!
+However you will have to justify you technology choices. Component diagram is ok. Plan looks good but leaves no room for the unexpected.
+
+### Group I
+Component diagram page 3 (no page numner?) is ok, however diagram on page 4 is mixing various concepts, including the system as a component of itself? Plan should also include tooling and CI environment.
+
+
+## Feedback on Delivery of Sept. 30th
 
 ### Group A
 Personas and scenarios map what we have decided. Scenario 2 is not so clearly defined.
