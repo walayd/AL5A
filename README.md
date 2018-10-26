@@ -20,6 +20,12 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 ## Lecture material
 - Week #1: [Overview](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_1_overview_v0.8.pdf), [Organisation](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_2_organisation_v0.7.pdf), [Case Study](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_3_case_study_v0.7.pdf), [Project](https://github.com/gmolines/AL5A/blob/master/lectures/week1_1_4_projet_v0.8.pdf)
 
-- Week #2: [Build the Right system](https://github.com/gmolines/AL5A/blob/master/lectures/week1_2_1_build_the_right_system_v0.4.pdf), 
+- Week #2: [Build the Right system](https://github.com/gmolines/AL5A/blob/master/lectures/week1_2_1_build_the_right_system_v0.4.pdf)
 
-- Week #3: [Build the system Right](https://github.com/gmolines/AL5A/blob/master/lectures/week1_3_1_build_the_system_right_v0.5.pdf), 
+- Week #3: [Build the system Right](https://github.com/gmolines/AL5A/blob/master/lectures/week1_3_1_build_the_system_right_v0.5.pdf) 
+
+- Week #4: [Architectural Approach](https://github.com/gmolines/AL5A/blob/master/lectures/week1_4_1_architectural_approach_v0.4.pdf)
+
+- Week #5: [Architecture Types](https://github.com/gmolines/AL5A/blob/master/lectures/week1_5_1_architecture_horizon_v0.4.pdf), [Architecture Evolution](https://github.com/gmolines/AL5A/blob/master/lectures/week1_5_1_architecture_evolution_v0.4.pdf) 
+
+- Week #6: [Technical Components](https://github.com/gmolines/AL5A/blob/master/lectures/week1_6_1_technical_components_v0.4.pdf), [Micro-service Architecture](https://github.com/gmolines/AL5A/blob/master/lectures/week1_6_2_microservice_architecture_v0.2.pdf) 
