@@ -29,3 +29,5 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 - Week #5: [Architecture Types](https://github.com/gmolines/AL5A/blob/master/lectures/week1_5_1_architecture_horizon_v0.4.pdf), [Architecture Evolution](https://github.com/gmolines/AL5A/blob/master/lectures/week1_5_1_architecture_evolution_v0.4.pdf) 
 
 - Week #6: [Technical Components](https://github.com/gmolines/AL5A/blob/master/lectures/week1_6_1_technical_components_v0.4.pdf), [Micro-service Architecture](https://github.com/gmolines/AL5A/blob/master/lectures/week1_6_2_microservice_architecture_v0.2.pdf) 
+
+- 2017 mid-term [evaluation](https://github.com/gmolines/AL5A/blob/master/lectures/examen_bimestre_1_2017.pdf)
