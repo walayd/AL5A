@@ -4,6 +4,7 @@
 - Sept 30th: scope
 - Oct 10th: component diagram, roadmap, plan.
 - Jan 16th: updated architecture document. Based on the new requirement, update the arch. document to describe what you will keep, what you will change, what you will remove, and more importantly why.
+- March 1st: video of scenario demo
 
 ## Feedback on Delivery of Oct. 10th.
 ### Group A
