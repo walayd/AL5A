@@ -7,7 +7,7 @@ TAG=mutant_delivery
 FILE_CONTENT=architecture
 FILE_STATUS=status
 
-TAG=tag_04
+TAG=tag_06
 #FILE=architecture
 
 function process() # $1 is team ID (& project directory)

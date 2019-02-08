@@ -6,6 +6,21 @@
 - Jan 16th: updated architecture document. Based on the new requirement, update the arch. document to describe what you will keep, what you will change, what you will remove, and more importantly why.
 - March 1st: video of scenario demo
 
+## Video expectation
+You need to deliver a (max) 3 minute video, hosted on a streaming website, which states the challenges you've encountered with the requirement changes of December, how you managed to overcome them, why you made the choice you made, and then a capture of the demo proving it works.
+3 min is a very short time. This is precisely the goal of the exercise, you need to be concise and to the point.
+
+## Oral defense expectation
+On March 1st, you will performa an oral defense of your project achievement. The objectives and criteria are the same as for the first instance of November. The most important points are:
+
+- make sure the scenarios you had demonstrated in the first period are still working and unaffected by the architecture refactoring
+
+- explain the impact of the requirement changes, and how you had to adapt the architecture. Esp. justify your choice
+
+- live demo showing the new end-to-end scenarios
+
+- who did what
+
 ## Feedback on Delivery of Oct. 10th.
 ### Group A
 Your plan seems viable, the architectural choices taken so far look good, however you need to explain why they've been taken this way.

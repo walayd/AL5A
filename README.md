@@ -13,7 +13,8 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 ### Project key dates
 - Next delivery: Wednesday, Oct 10th at midnight. Component diagram, roadmap
 - Nov 2nd: POC ready, oral defense
-- Feb 15th, 2019: final demo, oral defense
+- March 1st, 2019: final demo, oral defense
+- March 1st, 2019: delivery of video
 
 
 
