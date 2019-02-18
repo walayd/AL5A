@@ -36,3 +36,5 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 - Week #2.1: [Organisation bimestre 2](https://github.com/gmolines/AL5A/blob/master/lectures/week2_1_1_organisation_v0.3.pdf)
 
 - Industrial presentation #1: [Greencom Networks](https://github.com/gmolines/AL5A/blob/master/lectures/GCN_Polytech_Presentation_2019_final.pdf)
+
+- Industrial presentation #3: [MyCoach](https://github.com/gmolines/AL5A/blob/master/lectures/Architecture_MyCoach.pdf)
