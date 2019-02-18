@@ -38,3 +38,10 @@ Schedule of deliveries, and feedback on the deliverables can be found [here](htt
 - Industrial presentation #1: [Greencom Networks](https://github.com/gmolines/AL5A/blob/master/lectures/GCN_Polytech_Presentation_2019_final.pdf)
 
 - Industrial presentation #3: [MyCoach](https://github.com/gmolines/AL5A/blob/master/lectures/Architecture_MyCoach.pdf)
+
+## Evaluations - previous years
+- [Exam 2016](https://github.com/gmolines/AL5A/blob/master/lectures/examen_2016.pdf)
+
+- [Exam 2017 - 1](https://github.com/gmolines/AL5A/blob/master/lectures/examen_bimestre_1_2017.pdf)
+
+- [Exam 2017 - 2](https://github.com/gmolines/AL5A/blob/master/lectures/examen_bimestre_2_2017.pdf)
